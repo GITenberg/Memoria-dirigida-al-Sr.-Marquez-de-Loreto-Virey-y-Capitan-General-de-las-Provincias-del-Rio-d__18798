@@ -1,0 +1,29 @@
+_repo: Memoria-dirigida-al-Sr.-Marquez-de-Loreto-Virey-y-Capitan-General-de-las-Provincias-del-Rio-d__18798
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Viedma, Francisco de
+    birthdate: 1737
+    deathdate: 1809
+    gutenberg_agent_id: '8258'
+    url: http://www.gutenberg.org/2009/agents/8258
+description: ''
+gutenberg_bookshelf: Argentina
+gutenberg_issued: '2006-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18798'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Patagonia (Argentina and Chile) -- History'
+- !lcsh 'Argentina -- History -- 1776-1810'
+- !lcc 'F2801'
+title: Memoria dirigida al Sr. Marquez de Loreto, Virey y Capitan General de las Provincias
+  del Rio de La Plata
+url: http://www.gutenberg.org/ebooks/18798
