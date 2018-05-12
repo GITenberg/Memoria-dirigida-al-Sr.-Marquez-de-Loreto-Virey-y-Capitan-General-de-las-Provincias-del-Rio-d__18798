@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8258'
     url: http://www.gutenberg.org/2009/agents/8258
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18798#Memoria-dirigida-al-Sr.-Marquez-de-Loreto-Virey-y-Capitan-General-de-las-Provincias-del-Rio-d_
 gutenberg_bookshelf: Argentina
 gutenberg_issued: '2006-07-09'
 gutenberg_type: Text
